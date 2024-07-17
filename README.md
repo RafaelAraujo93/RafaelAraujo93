@@ -14,12 +14,6 @@ Estudante de análise de desenvolvimento em busca de novos desafios e oportunida
 
 Estou sempre aprendendo e crescendo, e estou ansioso para colaborar em projetos que me permitam aprimorar minhas habilidades e fazer a diferença.
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
-
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
 
